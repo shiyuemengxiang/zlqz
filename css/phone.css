@@ -1,0 +1,110 @@
+/*这里是响应手机端的样式*/
+nav{
+	position: relative;
+}
+.nav_content{
+	width:90%;
+}
+.nav_content{
+	padding: 0;
+}
+.nav_l img{
+	position: relative;
+	top:18px;
+}
+.nav_r{
+	/*display:none;*/
+	visibility: hidden;
+}
+.nav_content{
+    width:90%;
+    /*background: #000;*/
+}
+.nav_content .nav_r a{
+    margin-right:0;
+}
+.container>.box{
+	border: 1px solid red;
+}
+.container .score .box{
+    width:90%;
+}
+.container .score .data{
+	/*width:100%;*/
+	display: block;
+}
+.container .score .data p{
+	width:90%;
+	
+}
+ .container .score .data p .num{
+ 	/*color:red;*/
+	font-size:3.2rem;
+}
+
+/*.container .score .data p*/
+.advantage .con{
+	width: 90%;
+	/*margin: 0 auto;*/
+	/*border: 1px solid red;*/
+}
+.advantage .con .box{
+	width:90%;
+	/*margin: 0 auto;*/
+	/*margin:0;*/
+	margin-left:calc(10%/2);
+}
+.score .data p .num{
+    font-size:2.2rem;
+    color:deepskyblue;
+    font-weight: bold;
+}
+.serve .con {
+	width:90%;
+	margin:0 auto;
+	/*border: 1px solid red;*/
+	
+}
+.serve .con .fw{
+	margin:0 auto;
+	width:100%;
+}
+.user .con [class^='use']{
+	width:90%;
+	margin-left: calc(10%/2);
+	margin-top:160px;
+}
+.user .con .user1{
+	margin-top: 0;
+}
+.zixun .con{
+	width:90%;
+}
+.zixun .con [class^='box']{
+	width:90%;
+}
+.client .con{
+	width: 90%;
+	/*margin-left: calc(10%/2);*/
+	/*margin: 0 auto;*/
+}
+.client .con img{
+			width:30%;
+			margin-right:2.5%;
+			}
+			.link{
+			padding-bottom: 400px;
+				
+			}
+			.link .con{
+				width:100%;
+			}
+			.link .item{
+				width:40%;
+			}
+			.link .item:nth-of-type(5){
+				width:60%;
+				position: relative;
+				left:0.03em;
+				border-right: 0;
+			}			

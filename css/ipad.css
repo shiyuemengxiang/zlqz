@@ -1,0 +1,68 @@
+/*这里响应平板端样式*/
+.nav_content{
+    width:90%;
+    /*background: #000;*/
+}
+.nav_content .nav_r a{
+    margin-right:0;
+}
+.container .score .box{
+    width:90%;
+}
+
+.advantage .con{
+	width: 90%;
+	/*border: 1px solid red;*/
+}
+.advantage .con .box{
+	width:22%;
+	margin:0;
+	margin-left:calc(12%/5);
+}
+/*.advantage .con .box {
+	width:150.06px;
+	height:140px;
+}*/
+.score .data p .num{
+    font-size:2.8rem;
+    color:deepskyblue;
+    font-weight: bold;
+}
+.serve .con {
+	width:90%;
+	margin:0 auto;
+	/*border: 1px solid red;*/
+	
+}
+.serve .con .fw{
+	margin:0 auto;
+	width:25%;
+}
+.user .con{
+	width:90%;
+	/*border: 1px solid red;*/
+}
+.zixun .con{
+	width:95%;
+}
+.client .con{
+	width: 90%;
+}
+
+footer .link .con{
+	width:100%;
+}
+.item:nth-of-type(1),.item:nth-of-type(2),.item:nth-of-type(3){
+	
+	/*border: 1px solid yellowgreen;*/
+	width:12%;
+	
+}
+.item:nth-of-type(4){
+	width:20%;
+}
+.item:nth-of-type(5){
+	width:30%;
+	transform: translateX(2em);
+}
+
